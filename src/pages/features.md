@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Características
 sections:
 - type: section_content
   template: section_content
@@ -26,12 +26,12 @@ sections:
     new_window: false
 - type: section_cta
   template: section_cta
-  title: This Is Call to Action Block!
+  title: Inscribirte ya!
   section_id: call-to-action
-  subtitle: This is an optional description for the call to action block.
+  subtitle: Puedes empezar inmediatamente a darle de alta a tu restaurante.
   actions:
-  - label: Get Started
-    url: "#"
+  - label: Empezar
+    url: https://www.atumesaya.mx
     primary: false
     new_window: false
 template: landing
