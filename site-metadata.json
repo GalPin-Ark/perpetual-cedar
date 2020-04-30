@@ -7,20 +7,12 @@
     "has_nav": true,
     "nav_links": [
       {
-        "label": "Home",
+        "label": "Inicio",
         "url": "/"
       },
       {
-        "label": "Features",
-        "url": "/features"
-      },
-      {
-        "label": "Pricing",
-        "url": "/pricing"
-      },
-      {
-        "label": "Style Guide",
-        "url": "/style-guide"
+        "label": "Contacto",
+        "url": "/contact"
       },
       {
         "label": "Sign Up",
@@ -31,21 +23,13 @@
   },
   "footer": {
     "logo_img": "images/logo_alt.png",
-    "tagline": "SaaS theme by Stackbit",
+    "tagline": "Sistema de Pedidos de Online para Restaurantes",
     "has_nav": true,
-    "nav_title": "Company",
+    "nav_title": "Menú rápido",
     "nav_links": [
       {
         "label": "About Us",
         "url": "/about"
-      },
-      {
-        "label": "Blog",
-        "url": "/blog"
-      },
-      {
-        "label": "Sign Up",
-        "url": "signup"
       },
       {
         "label": "Contact",
@@ -53,25 +37,20 @@
       }
     ],
     "has_social": true,
-    "social_title": "Community",
+    "social_title": "Social Links",
     "social_links": [
       {
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "new_window": true
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
+        "label": "Facebook",
+        "url": "https://www.facebook.com/unozerocode",
         "new_window": true
       },
       {
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
+        "url": "https://mx.linkedin.com/company/unozerocode",
         "new_window": true
       }
     ],
-    "has_subscribe": true,
+    "has_subscribe": false,
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
     "content": "&copy; Stackbit. All rights reserved.",
