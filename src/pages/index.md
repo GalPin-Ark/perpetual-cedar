@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio
 sections:
 - type: section_hero
   template: section_hero
@@ -9,7 +9,7 @@ sections:
     Tus "me gusta" de Facebook te harán conseguir más pedidos. Integra nuestro sistema de pedidos gratuito directamente con Facebook.
 
     No tienes que preocuparte por pagar ninguna tarifa o comisión.
-  image: "/images/1920Asset 12.png"
+  image: "/images/food.jpg"
   actions:
   - label: Contáctanos
     url: "/contact"
