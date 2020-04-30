@@ -11,7 +11,7 @@ sections:
     No tienes que preocuparte por pagar ninguna tarifa o comisión.
   image: "/images/1920Asset 12.png"
   actions:
-  - label: Learn More
+  - label: Contáctanos
     url: "/features"
     primary: false
     new_window: false
