@@ -12,7 +12,7 @@ sections:
   image: "/images/1920Asset 12.png"
   actions:
   - label: Contáctanos
-    url: "/features"
+    url: "/contact"
     primary: false
     new_window: false
 - type: section_features
