@@ -43,16 +43,28 @@ sections:
       new_window: false
 - type: section_cta
   template: section_cta
-  title: ''
+  title: Usa nuestro sistema de pedidos de restaurantes en  Facebook como una nueva
+    forma de aumentar tus ventas en  línea ... Sin necesidad gastar tu dinero.
   section_id: call-to-action
   subtitle: Usa nuestro sistema de pedidos de restaurantes en  Facebook como una nueva
     forma de aumentar tus ventas en  línea ... Sin necesidad gastar tu dinero.
   actions: []
-- type: section_posts
-  template: section_posts
-  title: Latest Posts
-  section_id: recent-posts
-  background: gray
+- template: section_features
+  background: white
+  type: section_features
+  section_id: features-2
+  features:
+  - title: Sazona tu menú con algunas promociones irresistibles
+    content: Engancha a tus clientes y consigue más pedidos con algunas promociones
+      gastronómicas irresistibles.
+    image: "/images/avatar.png"
+    actions: []
+  - title: Botón de compras integrado directamente en la página de tu negocio.
+    content: Al hacer clic en el botón "Ver MENÚ y Ordenar en la página de tu restaurante,
+      se abrirá una pestaña de Facebook que contiene el delicioso menú de tu restaurante.
+    image: "/images/hero.png"
+    actions: []
+  title: ''
   subtitle: ''
 template: landing
 
