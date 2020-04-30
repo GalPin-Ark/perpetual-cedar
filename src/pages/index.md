@@ -43,8 +43,7 @@ sections:
       new_window: false
 - type: section_cta
   template: section_cta
-  title: Usa nuestro sistema de pedidos de restaurantes en  Facebook como una nueva
-    forma de aumentar tus ventas en  línea ... Sin necesidad gastar tu dinero.
+  title: ''
   section_id: call-to-action
   subtitle: Usa nuestro sistema de pedidos de restaurantes en  Facebook como una nueva
     forma de aumentar tus ventas en  línea ... Sin necesidad gastar tu dinero.
