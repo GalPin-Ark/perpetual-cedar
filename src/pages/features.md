@@ -13,7 +13,7 @@ sections:
     * Estadísticas de mercadotecnia para promocionar su restaurante.
 
     Este servicio es gratis y siempre será gratis.
-  image: images/feature1.png
+  image: "/images/gfhp-card1-78edac9036.png"
   background: gray
   actions:
   - label: Free Trial
