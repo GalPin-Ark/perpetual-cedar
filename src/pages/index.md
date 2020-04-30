@@ -36,11 +36,7 @@ sections:
 
       Solo instala nuestra app para tomar pedidos de clientes gratis para Android y iOS, en tu smartphone, tableta o iPad
     image: images/feature1.png
-    actions:
-    - label: Learn More
-      url: "/features"
-      primary: false
-      new_window: false
+    actions: []
 - type: section_cta
   template: section_cta
   title: ''
