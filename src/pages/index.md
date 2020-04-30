@@ -3,10 +3,12 @@ title: Home
 sections:
 - type: section_hero
   template: section_hero
-  title: This Is A Big Hero Headline
+  title: Sistema de Pedidos de Facebook para Restaurantes
   section_id: hero
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  content: |-
+    Tus "me gusta" de Facebook te harán conseguir más pedidos. Integra nuestro sistema de pedidos gratuito directamente con Facebook.
+
+    No tienes que preocuparte por pagar ninguna tarifa o comisión.
   image: "/images/1920Asset 12.png"
   actions:
   - label: Learn More
