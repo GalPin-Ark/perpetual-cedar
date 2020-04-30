@@ -1,5 +1,5 @@
 {
-  "title": "Atumesaya",
+  "title": "A Tu Mesa Ya!",
   "palette": "green",
   "header": {
     "title": "Atumesaya",
@@ -53,12 +53,11 @@
     "has_subscribe": false,
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
-    "content": "&copy; Stackbit. All rights reserved.",
+    "content": "&copy; Uno Zero Code, S.A. de C. V. All rights reserved.",
     "links": [
       {
-        "label": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
+        "url": "www.atumesaya.mx",
+        "label": "A Tu Mesa Ya"
       }
     ]
   }
