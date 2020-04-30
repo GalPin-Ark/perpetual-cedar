@@ -17,34 +17,25 @@ sections:
     new_window: false
 - type: section_features
   template: section_features
-  title: Features
+  title: Ingresa el tráfico web directo a tus pedidos online
   section_id: features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
-  background: gray
+  subtitle: Haz que cada visitante de tu página de Facebook obtenga un delicioso platillo
+    de tu menú con este sistema de pedidos gratis para restaurantes.
+  background: white
   features:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: images/feature1.png
-    actions:
-    - label: Learn More
-      url: "/features"
-      primary: false
-      new_window: false
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: "¿Quieres recibir tu primer cliente lo más pronto  posible?"
+    content: |-
+      En tan solo un par de horas nuestro sistema estará listo para recibir pedidos mediante Facebook.
+
+      Con un solo clic tus clientes tendrán la facilidad de comprar tu menú, sin la necesidad de salir de la página de Facebook de tu restaurante.
     image: images/feature2.png
-    actions:
-    - label: Learn More
-      url: "/features"
-      primary: false
-      new_window: false
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/feature3.png
+    actions: []
+  - title: "¿Necesitas Dispositivos especiales para manejar nuestro sistema?"
+    content: |-
+      ... No, es fácil de usar desde cualquier dispositivo.
+
+      Solo instala nuestra app para tomar pedidos de clientes gratis para Android y iOS, en tu smartphone, tableta o iPad
+    image: images/feature1.png
     actions:
     - label: Learn More
       url: "/features"
