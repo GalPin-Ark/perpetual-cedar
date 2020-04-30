@@ -7,7 +7,7 @@ sections:
   section_id: hero
   content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
     who need a sleek, modern SaaS site. '
-  image: "/images/tai-s-captures-JiRSy0GfqPA-unsplash.jpg"
+  image: "/images/christine-siracusa-vzX2rgUbQXM-unsplash.jpg"
   actions:
   - label: Learn More
     url: "/features"
