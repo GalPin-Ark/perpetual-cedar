@@ -34,7 +34,7 @@ sections:
     content: |-
       ... No, es fácil de usar desde cualquier dispositivo.
 
-      Solo instala nuestra app para tomar pedidos de clientes gratis para Android y iOS, en tu smartphone, tableta o iPad
+      Solo instala nuestra app para tomar pedidos de clientes gratis para Android y iOS, en tu smartphone, tableta o iPad.
     image: "/images/variation2-card2-923131c831.png"
     actions: []
 - type: section_cta
