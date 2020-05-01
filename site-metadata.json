@@ -15,8 +15,8 @@
         "url": "/contact"
       },
       {
-        "label": "Sign Up",
-        "url": "/signup",
+        "label": "Suscribete",
+        "url": "https://www.atumesaya.mx/",
         "primary": true
       }
     ]
