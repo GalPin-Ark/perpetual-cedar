@@ -5,12 +5,9 @@ sections:
   template: section_contact
   title: Contacto
   section_id: contact
-  content: |-
-    Somos una empresa 100% Mexicana, ubicada en Puerto Escondido, Oaxaca.
-
-    Acude a nuestras oficinas o llama al tel +52 954 688 3839
+  content: ''
   background: gray
-  subtitle: ''
+  subtitle: Proporcione su correo electrónico y nos pondremos en contacto con usted.
 template: landing
 
 ---
