@@ -17,13 +17,6 @@ sections:
   exclude: "{posts/**,blog/index.md}"
   templates:
   - page
-- type: directory
-  path: src/pages/posts
-  label: Post
-  create: all
-  match: "**/*"
-  templates:
-  - post
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
