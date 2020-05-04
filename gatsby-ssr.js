@@ -26,8 +26,12 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
             <script src={safePrefix('js/main.js')}/>
             
         </React.Fragment>,
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPRH929"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <noscript dangerouslySetInnerHTML={{
+            __html: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPRH929"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+            `,
+        }}
+    />
     ]);
 
 };
