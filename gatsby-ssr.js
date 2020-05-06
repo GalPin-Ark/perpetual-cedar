@@ -17,7 +17,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
       `
         }}
       />,
-      <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/7604870.js"></script>
+      <script type="text/javascript" id="hs-script-loader" async src="//js.hs-scripts.com/7604870.js"></script>
     ]);
 
     setPostBodyComponents([
