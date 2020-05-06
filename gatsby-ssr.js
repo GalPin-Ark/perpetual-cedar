@@ -17,8 +17,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
       `
         }}
       />,
-      <link href="https://admin.chatcompose.com/static/EN/global/export/css/main.0ec6acf6.css" rel="stylesheet"/>,
-        <script async type="text/javascript" src="https://admin.chatcompose.com/static/EN/global/export/js/main.dec259c7.js" user="enrique"></script>
+      <script type="text/javascript" id="hs-script-loader" async defer src="https://js.hs-scripts.com/7604870.js"></script>
       
     ]);
 
