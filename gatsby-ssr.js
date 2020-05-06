@@ -16,7 +16,9 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
           (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TPRH929');
       `
         }}
-      />
+      />,
+      <link href="https://admin.chatcompose.com/static/EN/global/export/css/main.0ec6acf6.css" rel="stylesheet"/>,
+        <script async type="text/javascript" src="https://admin.chatcompose.com/static/EN/global/export/js/main.dec259c7.js" user="enrique"></script>
       
     ]);
 
@@ -32,8 +34,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
             height="0" width="0" style="display:none;visibility:hidden"></iframe>
             `,
         }}
-    />,
-    <script type="text/javascript" id="hs-script-loader" async src="//js.hs-scripts.com/7604870.js"></script>
+    />
     ]);
 
 };
