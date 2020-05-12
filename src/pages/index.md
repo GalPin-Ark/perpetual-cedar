@@ -9,7 +9,7 @@ sections:
     Tus "me gusta" de Facebook te harán conseguir más pedidos. Integra nuestro sistema de pedidos gratuito directamente con Facebook.
 
     No tienes que preocuparte por pagar ninguna tarifa o comisión.
-  image: "/images/food.jpg"
+  image: "/images/foodi.jpg"
   actions:
   - label: Contáctanos
     url: "/contact"
