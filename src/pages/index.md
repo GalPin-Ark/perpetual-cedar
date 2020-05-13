@@ -43,9 +43,9 @@ sections:
       Menú, fotos y descripciones de tus platillos que estarán disponibles en el menú de Facebook.
     image: "/images/hp-card4-42229b543e.png"
     actions: []
-  - title: "¿Necesitas Dispositivos especiales para manejar nuestro sistema?"
+  - title: "¿Que necesitas en Cocina para recibir tu pedido?"
     content: |-
-      En cocina es necesario tener un dispositivo destinado solo para recibir los pedidos realizados.
+      Es necesario tener un Smartphone destinado solo para recibir los pedidos realizados.
 
       De esta manera el sistema siempre estará disponible a la espera de una orden.
     image: "/images/variation2-card2-923131c831.png"
