@@ -27,7 +27,7 @@ sections:
     content: |-
       En tan solo un par de horas nuestro sistema estará listo para recibir pedidos mediante Facebook.
 
-      Con un solo clic tus clientes tendrán la facilidad de comprar tu menú, sin la necesidad de salir de la página de Facebook de tu restaurante.
+      Te enviaremos una solicitud por Facebook para integrar y configurar el menú de tu restaurante, el administrador de la pagina debe aceptarla para continuar con la integración.
     image: "/images/variation2-card1-082d7eeb84.png"
     actions: []
   - title: "¿Necesitas Dispositivos especiales para manejar nuestro sistema?"
