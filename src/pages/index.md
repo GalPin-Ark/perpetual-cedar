@@ -28,7 +28,7 @@ sections:
       En tan solo un par de horas nuestro sistema estará listo para recibir pedidos mediante Facebook.
 
       Te enviaremos una solicitud por Facebook para integrar y configurar el menú de tu restaurante, el administrador de la pagina debe aceptarla para continuar con la integración.
-    image: "/images/variation2-card1-082d7eeb84.png"
+    image: "/images/variation2-card5-f1902fc102.png"
     actions: []
   - title: "¿Qué requisitos necesitas para tener tu menú en Facebook? "
     content: |-
