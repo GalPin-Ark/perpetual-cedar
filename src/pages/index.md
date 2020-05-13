@@ -45,9 +45,9 @@ sections:
     actions: []
   - title: "¿Necesitas Dispositivos especiales para manejar nuestro sistema?"
     content: |-
-      ... No, es fácil de usar desde cualquier dispositivo.
+      En cocina es necesario tener un dispositivo destinado solo para recibir los pedidos realizados.
 
-      Solo instala nuestra app para tomar pedidos de clientes gratis para Android y iOS, en tu smartphone, tableta o iPad.
+      De esta manera el sistema siempre estará disponible a la espera de una orden.
     image: "/images/variation2-card2-923131c831.png"
     actions: []
 - type: section_cta
