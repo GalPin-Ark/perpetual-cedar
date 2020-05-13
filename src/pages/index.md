@@ -30,6 +30,19 @@ sections:
       Te enviaremos una solicitud por Facebook para integrar y configurar el menú de tu restaurante, el administrador de la pagina debe aceptarla para continuar con la integración.
     image: "/images/variation2-card1-082d7eeb84.png"
     actions: []
+  - title: "¿Qué requisitos necesitas para tener tu menú en Facebook? "
+    content: |-
+      La información necesaria para crear tu menú en línea es:
+
+      Correo electrónico de tu restaurante.
+
+      Numero de teléfono
+
+      Nombre y apellido de la persona responsable
+
+      Menú, fotos y descripciones de tus platillos que estarán disponibles en el menú de Facebook.
+    image: "/images/hp-card4-42229b543e.png"
+    actions: []
   - title: "¿Necesitas Dispositivos especiales para manejar nuestro sistema?"
     content: |-
       ... No, es fácil de usar desde cualquier dispositivo.
