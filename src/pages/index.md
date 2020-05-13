@@ -55,7 +55,7 @@ sections:
   title: ''
   section_id: call-to-action
   subtitle: Usa nuestro sistema de pedidos de restaurantes en  Facebook como una nueva
-    forma de aumentar tus ventas en  línea ... Sin necesidad gastar tu dinero.
+    forma de aumentar tus ventas en  línea ... Sin necesidad gastar dinero.
   actions: []
 - template: section_features
   background: white
