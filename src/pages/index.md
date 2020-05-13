@@ -70,7 +70,7 @@ sections:
   - title: Botón de compras integrado directamente en la página de tu negocio.
     content: Al hacer clic en el botón "Ver MENÚ y Ordenar en la página de tu restaurante,
       se abrirá una pestaña de Facebook que contiene el delicioso menú de tu restaurante.
-    image: "/images/variation2-card5-f1902fc102.png"
+    image: "/images/variation2-card1-082d7eeb84.png"
     actions: []
   title: ''
   subtitle: ''
