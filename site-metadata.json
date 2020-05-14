@@ -50,7 +50,7 @@
         "new_window": true
       }
     ],
-    "has_subscribe": false,
+    "has_subscribe": true,
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
     "content": "&copy; Uno Zero Code, S.A. de C. V. All rights reserved.",
